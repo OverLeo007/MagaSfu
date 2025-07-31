@@ -94,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritms-and-data-structures.md",
-                "collapseAll": false,
+                "file": "Алгоритмы и структуры данных.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Algoritms-and-data-structures"
+              "title": "Обратные ссылки для Алгоритмы и структуры данных"
             }
           },
           {
@@ -142,21 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritms-and-data-structures.md",
+                "file": "Алгоритмы и структуры данных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Algoritms-and-data-structures"
+              "title": "Структура Алгоритмы и структуры данных"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,11 +170,12 @@
   },
   "active": "d756fbcfb388ac59",
   "lastOpenFiles": [
-    "Readme.md",
+    "Алгоритмы и структуры данных",
     "Базы данных.md",
+    "Алгоритмы и структуры данных.md",
+    "Readme.md",
     "Корпоративные информационные системы.md",
     "Принципы и методы разработки программного обеспечения.md",
-    "Алгоритмы и структуры данных.md",
     "Добро пожаловать.md"
   ]
 }
