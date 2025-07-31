@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базы данных.md",
-                "mode": "preview",
+                "file": "Корпоративные информационные системы.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Базы данных"
+              "title": "Корпоративные информационные системы"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базы данных.md",
+                "file": "Корпоративные информационные системы.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Базы данных"
+              "title": "Обратные ссылки для Корпоративные информационные системы"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базы данных.md",
+                "file": "Корпоративные информационные системы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Базы данных"
+              "title": "Структура Корпоративные информационные системы"
             }
           }
         ],
@@ -170,9 +170,9 @@
   },
   "active": "d756fbcfb388ac59",
   "lastOpenFiles": [
+    "Базы данных.md",
     "Алгоритмы и структуры данных.md",
     "Алгоритмы и структуры данных",
-    "Базы данных.md",
     "Readme.md",
     "Корпоративные информационные системы.md",
     "Принципы и методы разработки программного обеспечения.md",
